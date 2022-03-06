@@ -496,8 +496,11 @@ input[type="password"]:focus {
 	  /**end of contact us **/
       
 	  /**course**/
-	  .card:hover, .card2:hover, .card3:hover{
+	  .card:hover{
+	  
 	  box-shadow: 0px 0px 20px navy;
 	  transition: .5s;
-	  animate: glow;
-	}
+
+	  }
+	  
+	
